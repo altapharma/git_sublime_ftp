@@ -51,5 +51,6 @@ int main()
 		printf("ntohs origin is 0x%x\n",ntohl(type2));
 		printf("htons origin is 0x%x\n",htonl(type2));
 		return 0;
+
 	}
 }
